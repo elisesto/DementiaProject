@@ -10,6 +10,7 @@ let fullDeck = [];
 let message = "";
 let currentLevel = 1; 
 let buttonNextLevel;
+let card;
 
 
 function preload() {
